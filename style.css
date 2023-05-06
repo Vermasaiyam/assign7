@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.btn{
+    padding: 13px 26px;
+    font-size: 15px;
+    border-radius: 25px;
+}
